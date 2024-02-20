@@ -1,0 +1,8 @@
+dashboard : chart angular ( apex )
+
+jasper report : c'est un logiciel qu'il permet de créer des états 
+
+
+1/intégration jasper report avec spring boot ( inclus dans le projet )
+2/envoi d'un email ( un micro-service indépendant )
+3/chat groupe et chat tête à tête ( un micro-service indépendant )
